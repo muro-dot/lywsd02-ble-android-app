@@ -15,3 +15,7 @@
 local.properties
 *.apk
 .vscode/
+
+# 서명 키는 저장소에 올리지 않는다
+*.jks
+*.keystore
