@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/muro-dot/lywsd02-ble-android-app/releases/latest"><img src="https://img.shields.io/github/v/release/muro-dot/lywsd02-ble-android-app?color=blue&label=Latest%20Release" alt="Latest Release"></a>
   <a href="https://github.com/muro-dot/lywsd02-ble-android-app/releases"><img src="https://img.shields.io/github/downloads/muro-dot/lywsd02-ble-android-app/total?color=blueviolet&logo=github&label=Downloads" alt="Total Downloads"></a>
-  <a href="https://github.com/muro-dot/lywsd02-ble-android-app/releases/latest/download/lywsd02-ble-android-app-v1.2.8.apk"><img src="https://img.shields.io/badge/Download-APK-success?logo=android" alt="Download APK"></a>
+  <a href="https://github.com/muro-dot/lywsd02-ble-android-app/releases/latest/download/lywsd02-ble-android-app-v1.2.9.apk"><img src="https://img.shields.io/badge/Download-APK-success?logo=android" alt="Download APK"></a>
   <img src="https://img.shields.io/badge/License-GPL--3.0-orange" alt="License">
 </p>
 <p align="center">
@@ -54,7 +54,7 @@
 
 You can download the pre-compiled APK directly from the [GitHub Releases](https://github.com/muro-dot/lywsd02-ble-android-app/releases/latest) page:
 
-- 📦 **Latest APK**: [lywsd02-ble-android-app-v1.2.8.apk](https://github.com/muro-dot/lywsd02-ble-android-app/releases/latest/download/lywsd02-ble-android-app-v1.2.8.apk)
+- 📦 **Latest APK**: [lywsd02-ble-android-app-v1.2.9.apk](https://github.com/muro-dot/lywsd02-ble-android-app/releases/latest/download/lywsd02-ble-android-app-v1.2.9.apk)
 - Requires Android 7.0 (API 24) or higher.
 
 ---
