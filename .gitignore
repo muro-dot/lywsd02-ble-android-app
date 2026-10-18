@@ -22,3 +22,8 @@ local.properties
 
 # 문서 폴더 제외
 docs/
+
+# AI 및 개발 지침 파일 제외 (GitHub 업로드 방지)
+AGENTS.md
+CLAUDE.md
+GEMINI.md
