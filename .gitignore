@@ -19,3 +19,6 @@ local.properties
 # 서명 키는 저장소에 올리지 않는다
 *.jks
 *.keystore
+
+# 문서 폴더 제외
+docs/
